@@ -1,0 +1,4 @@
+using merge sort is a better way to know the joins as it will take O(n log n) 
+which takes lesser time than traversing the table element by element 
+then storing the 0 and 1 element in red black tree to ensure binary search 
+which is faster than searching in a list where binary search is O(log n)

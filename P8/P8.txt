@@ -1,0 +1,6 @@
+consider normal toys are 1 and defected toys are 0 . 
+sort them in array then traverse them until you find 
+the first 0 then print its index assuming initiallizing 
+index as its serial number .. or we could store it in hash 
+table and storing collisions in a linked list inside each cell 
+or in binary search tree which will ensure fast search of O(log n)
